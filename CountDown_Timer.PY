@@ -1,5 +1,5 @@
 # Mr. Shivam Mishra
-# Internship Minor Project
+# Minor Project
 '''
 Minor Project Statement : Create A Countdown Timer Using Python
 Features Included : Reset / Stop & Pause / Resume
@@ -210,13 +210,3 @@ if __name__ == "__main__":
     root.resizable(0 , 0)
     obj = Application(root)
     root.mainloop()
-
-
-
-
-
-
-
-
-
-
